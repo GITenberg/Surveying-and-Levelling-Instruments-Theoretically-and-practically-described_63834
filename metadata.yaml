@@ -5,12 +5,17 @@ contributor:
     agent_name: Tallack, H. T.
     gutenberg_agent_id: '52627'
     url: http://www.gutenberg.org/2009/agents/52627
+covers:
+- cover_type: archival
+  image_path: 63834-h/images/cover.jpg
 creator:
   author:
     agent_name: Stanley, William Ford
     gutenberg_agent_id: '52626'
     url: http://www.gutenberg.org/2009/agents/52626
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63834#Surveying-and-Levelling-Instruments-Theoretically-and-practically-described
 gutenberg_issued: '2020-11-21'
 gutenberg_type: Text
 identifiers:
